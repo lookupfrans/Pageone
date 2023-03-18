@@ -13,7 +13,6 @@
     }
   }
   
-  /* Untuk Smartphone */
   @media all and (max-width: 670px) {
     .lesson {
       width: 100%;
@@ -32,7 +31,6 @@
     
     .btn {
       width: 100%;
-      justify-content: center;
       padding: 10px 10px;
       margin: auto;
     }
@@ -47,13 +45,6 @@
       line-height: 0;
     }
 
-    .btn-wrapper {
-      text-align: center;
-      justify-content: center;
-      position: relative;
-      opacity: 0.8;
-    }
-
     li {
       display: none;
     }
@@ -63,16 +54,14 @@
     }
     
     .top-wrapper h1 {
-      font-size: 24px;
-      margin: 0 auto;
-      line-height: 150px;
-      height: 0px;
+      font-size: 14px;
+      line-height: 20px;
       text-align: center;
     }
     
     .top-wrapper p {
       font-size: 14px;
-      line-height: 120px;
+      line-height: 20px;
       text-align: center;
     }
   }
