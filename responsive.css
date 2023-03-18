@@ -15,10 +15,7 @@
     }
     
     .btn {
-     
-      justify-content: center;
-      padding: 10px 10px;
-      margin: 0 auto;
+      width: 100%;
     }
 
     a {
@@ -54,21 +51,9 @@
     li {
       display: none;
     }
-    
 
     .menu-icon {
       display: block;
-    }
-    
-    .top-wrapper h1 {
-      font-size: 14px;
-      line-height: 36px;
-      width: 100%;
-    }
-    
-    .top-wrapper p {
-      font-size: 14px;
-      line-height: 20px;
     }
   }
   
