@@ -18,6 +18,10 @@
     .lesson {
       width: 100%;
     }
+      
+    header {
+      width: 100%;
+     }
     
     .header-left {
       padding-left: 40px;
@@ -43,7 +47,6 @@
     .top-wrapper {
       text-align: left;
       width: 100%;
-      margin: 0 auto;
     }
 
     .btn-wrapper {
@@ -64,7 +67,7 @@
     .top-wrapper h1 {
       font-size: 24px;
       margin: 0 auto;
-      width: 300px;
+      line-height: 50px;
       height: 0px;
     }
     
