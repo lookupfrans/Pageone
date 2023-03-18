@@ -39,11 +39,18 @@
 
     li {
       display: none;
-    }
-    
+    } 
 
     .menu-icon {
       display: block;
+    }
+    
+    h1 {
+      color: black;
+    }
+    
+    p {
+      color: black;
     }
     
     .top-wrapper h1 {
