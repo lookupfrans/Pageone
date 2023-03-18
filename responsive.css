@@ -91,5 +91,10 @@
       line-height: 20px;
       color: black;
     }
+    
+    .message-wrapper {
+      background-size: cover;
+      background-image: url(https://coolbackgrounds.io/images/backgrounds/black/black-trianglify-b6181ec2.jpg);
+    }
   }
   
