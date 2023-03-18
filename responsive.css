@@ -15,7 +15,7 @@
     }
     
     .btn {
-      width: auto;
+      width: 100%;
       justify-content: center;
       padding: 10px 10px;
       margin: auto;
@@ -50,11 +50,13 @@
     .top-wrapper h1 {
       font-size: 24px;
       line-height: 36px;
+      width: 100%;
     }
     
     .top-wrapper p {
       font-size: 14px;
       line-height: 20px;
+      width: 100%;
     }
   }
   
