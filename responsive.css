@@ -4,6 +4,10 @@
       width: 100%;
     }
     
+    small {
+      color: white;
+    }
+    
     .header-left {
       padding-left: 40px;
       color: white;
@@ -48,7 +52,19 @@
     li {
       display: none;
     } 
-
+    
+    .twitter {
+        opacity: 0.8;
+    }
+    
+    .facebook {
+        opacity: 0.8;
+    }
+    
+    .twitter {
+        opacity: 0.8;
+    }   
+        
     .menu-icon {
       display: block;
     }
