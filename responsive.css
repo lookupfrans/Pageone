@@ -6,10 +6,13 @@
     
     .header-left {
       padding-left: 40px;
+      color: white;
+      opacity: 0.8;
     }
     
     h2 {
       color: white;
+      opacity: 0.8;
     }
 
     footer {
@@ -23,6 +26,7 @@
       justify-content: center;
       padding: 10px 10px;
       margin: auto;
+      opacity: 0.8;
     }
 
     a {
