@@ -52,6 +52,7 @@
     }
     
     .top-wrapper h1 {
+      color: black;
       font-size: 14px;
       line-height: 36px;
       float: left;
