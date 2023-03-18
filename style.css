@@ -5,6 +5,7 @@
   body {
     margin: 0;
     font-family:'Roboto Mono', monospace;
+    opacity: 0.8;
   }
   
   a {
