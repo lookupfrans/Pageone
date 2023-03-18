@@ -41,9 +41,9 @@
     }
     
     .top-wrapper {
-      text-align: center;
+      text-align: left;
       width: 100%;
-        margin: 0 auto;
+      margin: 0 auto;
     }
 
     .btn-wrapper {
@@ -60,14 +60,6 @@
     .menu-icon {
       display: block;
     }
-      
-     h1 {
-      margin: 0 auto;
-      }
-      
-     p {
-      margin: 0 auto;
-      }
     
     .top-wrapper h1 {
       font-size: 24px;
