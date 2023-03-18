@@ -15,10 +15,10 @@
     }
     
     .btn {
-      width: 100%;
+      width: auto;
       justify-content: center;
       padding: 10px 10px;
-      margin: auto;
+      margin: 0 auto;
     }
 
     a {
@@ -28,6 +28,7 @@
     .top-wrapper {
       text-align: center;
       width: 100%;
+      line-height: 90px;
     }
 
     .btn-wrapper {
