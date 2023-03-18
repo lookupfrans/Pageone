@@ -19,8 +19,9 @@
       tex-align: center;
       justify-content: center;
       padding: 0 0;
+      margin: 0 auto; 
     }
-
+    
     a {
       opacity: 0.8;
     }
@@ -41,7 +42,8 @@
       justify-content: center;
       position: relative;
       opacity: 0.8;
-    }
+      margin: 0 auto; 
+    
 
     li {
       display: none;
@@ -55,24 +57,26 @@
       color: black;
       font-size: 24px;
       line-height: 50px;
-      float: left;
+      text-align: center;
+      margin: 0 auto;
     }
     
     h1 {
       padding: none;
       color: black;
       text-align: center;
+      margin: 0 auto;
     }
     
     p {
       text-align: center;
       padding: none;
       color: black;
+      margin: 0 auto;
     }
     
     .top-wrapper p {
-      float: left;
-      color: black;      
+      text-align: center;
       padding: 0 10px;
       font-size: 14px;
       line-height: 20px;
