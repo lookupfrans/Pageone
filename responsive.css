@@ -44,7 +44,7 @@
     .top-wrapper {
       text-align: left;
       width: 100%;
-      line-height: 200px;
+      line-height: 500px;
     }
 
     .btn-wrapper {
@@ -67,11 +67,21 @@
       margin: 0 auto;
       line-height: 150px;
       height: 0px;
+      text-align: center;
     }
     
     .top-wrapper p {
       font-size: 14px;
       line-height: 120px;
+      text-align: center;
+     }
+        
+     h1 {
+      text-align: center;
+    }
+        
+     p {
+        text-align: center;
     }
   }
   
