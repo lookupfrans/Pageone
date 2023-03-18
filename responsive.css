@@ -1,43 +1,59 @@
-@media all and (max-width: 670px) {
-  .lesson {
-    width: 100%;
-  }
-  
-  footer {
-    text-align: center;
-  }
-  
-  .btn {
-    width: 100%;
-  }
-  
-  .facebook {
-    margin-bottom: 10px;
-  }
-  
-  .top-wrapper {
-    text-align: left;
-  }
-  
 
-  .header-right {
-    display: none;
-  }
-  
+@media all and (max-width: 670px) {
+    .lesson {
+      width: 100%;
+    }
+    
+    .header-left {
+      padding-left: 40px;
+    }
+
+    footer {
+      text-align: left;
+      padding-left: 40px;
+      width:100%;
+    }
+    
+    .btn {
+      width: auto;
+      justify-content: center;
+      padding: 10px 10px;
+      margin: auto;
+    }
+
+    a {
+      opacity: 0.8;
+    }
+    
+    .top-wrapper {
+      text-align: center;
+      width: 100%;
+    }
+
+    .btn-wrapper {
+      text-align: center;
+      justify-content: center;
+      position: relative;
+      opacity: 0.8;
+    }
+
     li {
-     display: none;
+      display: none;
+    }
+    
+
+    .menu-icon {
+      display: block;
+    }
+    
+    .top-wrapper h1 {
+      font-size: 24px;
+      line-height: 36px;
+    }
+    
+    .top-wrapper p {
+      font-size: 14px;
+      line-height: 20px;
+    }
   }
-  .menu-icon {
-  display: block;
-}
   
-  .top-wrapper h1 {
-    font-size: 24px;
-    line-height: 36px;
-  }
-  
-  .top-wrapper p {
-    font-size: 14px;
-    line-height: 20px;
-  }
-}
