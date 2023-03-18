@@ -4,7 +4,7 @@
   
   body {
     margin: 0;
-    font-family: "Lucida Grande";
+    font-family:'Roboto Mono', monospace;
   }
   
   a {
@@ -53,17 +53,23 @@
   
   .signup {
     background-color: brown;
+    font-family:'Roboto Mono', monospac
+    opacity: 0.8;
   }
   
   .facebook {
     background-color: brown;
     margin-right: 10px;
     margin-left: 50px;
+    font-family:'Roboto Mono', monospace;
+    opacity: 0.8;
   }
   
   .twitter {
     background-color: brown;
     margin-left: 100px;
+    font-family:'Roboto Mono', monospace;
+    opacity: 0.8;
   }
   
   .btn {
