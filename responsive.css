@@ -27,10 +27,14 @@
     
     h1 {
       width: 100%;
+      padding: 0px 0px;
+      margin: 0px 0px;
     }
     
     p {
       width: 100%;
+      padding: 0px 0px;
+      margin: 0px 0px;
     }
     
     .top-wrapper {
@@ -40,7 +44,6 @@
     }
 
     .btn-wrapper {
-      width: 100%;
       text-align: center;
       justify-content: center;
       position: relative;
@@ -57,7 +60,7 @@
     }
     
     .top-wrapper h1 {
-      font-size: 24px;
+      font-size: 14px;
       line-height: 36px;
       width: 100%;
     }
