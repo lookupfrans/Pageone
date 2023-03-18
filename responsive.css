@@ -93,6 +93,9 @@
     }
     
     .message-wrapper {
+      padding: 180px 0 100px 0;
+      color: black;
+      text-align: center;
       background-size: cover;
       background-image: url(https://coolbackgrounds.io/images/backgrounds/black/black-trianglify-b6181ec2.jpg);
     }
