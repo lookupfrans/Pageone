@@ -49,9 +49,19 @@
     .top-wrapper h1 {
       color: black;
       font-size: 24px;
-      line-height: 36px;
+      line-height: 50px;
       float: left;
-      padding: 0 10px;
+    }
+    
+    h1 {
+      padding: none;
+      color: black;
+    }
+    
+    p {
+     
+      padding: none;
+      color: black;
     }
     
     .top-wrapper p {
