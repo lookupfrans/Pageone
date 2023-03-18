@@ -15,26 +15,19 @@
     }
     
     .btn {
-      width: 100%;
-      tex-align: center;
+      width: auto;
       justify-content: center;
-      padding: 0 0;
-      margin: 0 auto; 
+      padding: 10px 10px;
+      margin: auto;
     }
-    
+
     a {
       opacity: 0.8;
-    }
-    
-    facebook {
-        margin-bottom: 10px;
-        width: 100%;
     }
     
     .top-wrapper {
       text-align: center;
       width: 100%;
-      line-height: 90px;
     }
 
     .btn-wrapper {
@@ -42,42 +35,23 @@
       justify-content: center;
       position: relative;
       opacity: 0.8;
-      margin: 0 auto; 
-    
+    }
 
     li {
       display: none;
     }
+    
 
     .menu-icon {
       display: block;
     }
     
     .top-wrapper h1 {
-      color: black;
       font-size: 24px;
-      line-height: 50px;
-      text-align: center;
-      margin: 0 auto;
-    }
-    
-    h1 {
-      padding: none;
-      color: black;
-      text-align: center;
-      margin: 0 auto;
-    }
-    
-    p {
-      text-align: center;
-      padding: none;
-      color: black;
-      margin: 0 auto;
+      line-height: 36px;
     }
     
     .top-wrapper p {
-      text-align: center;
-      padding: 0 10px;
       font-size: 14px;
       line-height: 20px;
     }
