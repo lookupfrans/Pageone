@@ -16,6 +16,8 @@
     
     .btn {
       width: 100%;
+      tex-align: center;
+      justify-content: center;
     }
 
     a {
@@ -35,7 +37,6 @@
     }
 
     .btn-wrapper {
-      width: 100%;
       text-align: center;
       justify-content: center;
       position: relative;
@@ -51,8 +52,9 @@
     }
     
     .top-wrapper h1 {
-      font-size: 24px;
+      font-size: 14px;
       line-height: 36px;
+      float: left;
     }
     
     .top-wrapper p {
