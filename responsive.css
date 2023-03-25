@@ -4,16 +4,8 @@
       width: 100%;
     }
     
-    .button {
-      display: none;
-    }
-    
-    .fa {
-      display: none;
-    }
-
     .header-right {
-      opacity: 0.8;
+      display: none;
     }
 
     small {
