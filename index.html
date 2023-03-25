@@ -7,6 +7,7 @@
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="responsive.css">
     <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+    <script src="auto.js"></script>
   </head>
   <body>
     <header>
@@ -14,17 +15,17 @@
         <div class="header-left">
           <h2>H2O<small> store</small></h2>
         </div>
-        <!-- Tambahkan ikon menu di sini -->
-        <span class="fa fa-bars menu-icon"></span>
-        <div class="header-right">
-            <ul>
-                <li>About Us</li>
-                <li>Products</li>
-                <li>Contact Us</li>
-                <li>Sign in</li>
-            </ul>
+        <div id="mySidenav" class="sidenav">
+          <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+          <a href="#">About Us</a>
+          <a href="#">Products</a>
+          <a href="#">Clients</a>
+          <a href="#">Contact Us</a>
         </div>
+        <button onclick="openNav()"><i class="fa fa-home"></i></button>
+        <div id="main">
         </div>
+        <div class="header-right">Login</div>
       </div>
     </header>
      <div class="top-wrapper">
