@@ -16,7 +16,7 @@
     float: right;
     margin-top: 60px;
     padding: 10px 30px;
-    background-color: rgba(34, 49, 52, 0.9);
+    background-color: rgba(34, 49, 52, 0.0);
     cursor: pointer;
     border: none;
     text-decoration: none;
@@ -34,7 +34,7 @@
   z-index: 1; 
   top: 0; 
   left: 0;
-  background-color: #111; 
+  background-color: rgba(34, 49, 52, 0.9); 
   overflow-x: hidden; 
   padding-top: 60px; 
   transition: 0.5s; 
